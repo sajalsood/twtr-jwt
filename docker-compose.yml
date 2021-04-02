@@ -31,7 +31,7 @@ services:
         - NODE_ENV=development
         # - REACT_APP_BE_NETWORK=http://localhost
         # - REACT_APP_BE_PORT=5004
-        - REACT_APP_API_SERVICE_URL=http://localhost:5004
+        - REACT_APP_API_SERVICE_URL=http://localhost:5000
     # ~dk same problem here..
     #volumes:
       #- './fe:/usr/src/app'
